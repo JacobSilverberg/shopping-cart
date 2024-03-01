@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "PING G430 Max Driver",
+        "price": 599.99,
+        "type": "driver",
+        "imgUrl": "./images/ping-g430.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Callaway Paradym Smoke",
+        "price": 599.99,
+        "type": "driver",
+        "imgUrl": "./images/callaway-paradym.jpg"
+    },
+    {
+        "id": 3,
+        "name": "TaylorMade SIM2 Max",
+        "price": 349.99,
+        "type": "driver",
+        "imgUrl": "./images/taylormade-sim2.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cobra LTDX LS",
+        "price": 249.99,
+        "type": "driver",
+        "imgUrl": "./images/cobra-ltdx.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Mizuno Pro 245",
+        "price": 1599.99,
+        "type": "iron",
+        "imgUrl": "./images/mizuno-pro245.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Callaway Mavrik",
+        "price": 699.99,
+        "type": "iron",
+        "imgUrl": "./images/callaway-mavrik.jpg"
+    },
+    {
+        "id": 7,
+        "name": "PING I525",
+        "price": 1254.99,
+        "type": "iron",
+        "imgUrl": "./images/ping-i525.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Titleist T200",
+        "price": 1399.99,
+        "type": "iron",
+        "imgUrl": "./images/titleist-t200.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Cleveland RTX Black Satin",
+        "price": 119.99,
+        "type": "wedge",
+        "imgUrl": "./images/cleveland-rtx.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Titleist SM10",
+        "price": 199.99,
+        "type": "wedge",
+        "imgUrl": "./images/titleist-sm10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "PING S159",
+        "price": 195.99,
+        "type": "wedge",
+        "imgUrl": "./images/ping-s159.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Mizuno T24 Blue Ion",
+        "price": 179.99,
+        "type": "wedge",
+        "imgUrl": "./images/mizuno-t24.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Scotty Cameron Newport 2",
+        "price": 399.99,
+        "type": "putter",
+        "imgUrl": "./images/scottycameron-newport2.jpg"
+    },
+    {
+        "id": 14,
+        "name": "PING Anser 2D",
+        "price": 229.99,
+        "type": "putter",
+        "imgUrl": "./images/ping-anser2d.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Cleveland HB Soft 2",
+        "price": 149.99,
+        "type": "putter",
+        "imgUrl": "./images/cleveland-hb.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Odyssey DFX Rossie",
+        "price": 139.99,
+        "type": "putter",
+        "imgUrl": "./images/odyssey-dfx.jpg"
+    }
+]
